@@ -8,7 +8,7 @@ This Python project aims to analyze Amazon's best-selling books using data analy
 
 ### 1. Data Collection
 
-- Utilizes web scraping techniques or API access to gather information about best-selling books on Amazon.
+- Imported the dataset stored in CSV File from Kaggel Datasets.
 - Stores the collected data in a structured format for further analysis.
 
 ### 2. Data Cleaning and Preprocessing
@@ -35,3 +35,5 @@ This Python project aims to analyze Amazon's best-selling books using data analy
 
 - Analyzes the impact of ratings and reviews on book sales.
 - Explores the correlation between high ratings, reviews, and sales.
+
+To refer the Actual Jupyter Notebook file, click [here](https://colab.research.google.com/drive/1DIQ1qOoGvcbj1DwPeiT05zIvOHNx9fTw?usp=sharing).
